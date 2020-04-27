@@ -1,6 +1,7 @@
 # Node JS/TypeScript- 2.2
 
 This is the challange 2.2 for GoStack bootcamp @[RocketSeat](https://rocketseat.com.br/) 
+You can try it w/ the frontend on https://github.com/hgribeiro/fundamentos-reactjs-desafio
 
 ## Installation
 
